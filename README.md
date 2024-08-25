@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola, soy Yoe Alexander! 👋
 
-<!--
-**Yahg2005/yahg2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Desarrollador Full Stack apasionado por la tecnología y el desarrollo web. Me especializo en **JavaScript, React.js, Python y Flask**, y disfruto creando aplicaciones que resuelvan problemas reales y mejoren la experiencia del usuario.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Python, Flask, SQLAlchemy
+- **Bases de Datos:** MySQL, PostgreSQL, SQLite
+- **DevOps:** Git, Heroku, Pipenv
+
+## 🌱 Actualmente estoy aprendiendo
+
+- Desarrollo de API RESTful
+- Despliegue y administración de aplicaciones en la nube
+
+## 💬 Pregúntame sobre
+
+- React.js y su ecosistema
+- Cómo construir una API con Flask
+- Mejores prácticas en desarrollo full-stack
+
+## 📫 Cómo contactarme
+
+- [LinkedIn](https://www.linkedin.com/in/yoe-gonzalez-1b85a0144)
+- [Correo Electrónico](mailto:yahg2005@icloud.com)
+
+## 📈 Estadísticas de GitHub
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yahg2005&show_icons=true&theme=radical)
